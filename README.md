@@ -3,7 +3,7 @@ The Ontology of GAIA.
 
 ## GAIA repositories
 
-The-GAIA-Foundation is the active source of truth. The-Official-GAIA-Encyclopedia is a backup only. The founding principle for every repository is [Truth with Integrity](https://github.com/KyleAlexanderSteen/The-GAIA-Foundation/blob/main/PRINCIPLES.md): "A Truth That Is Never Twisted."
+The-GAIA-Foundation is the active source of truth. The-Official-GAIA-Encyclopedia is a backup only (*Removed 2026-10-25: repository deleted by owner; to be uploaded later.*). The founding principle for every repository is [Truth with Integrity](https://github.com/KyleAlexanderSteen/The-GAIA-Foundation/blob/main/PRINCIPLES.md): "A Truth That Is Never Twisted."
 
 | Repository | What it holds |
 |---|---|
